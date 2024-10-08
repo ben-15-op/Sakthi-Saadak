@@ -35,3 +35,26 @@ usage and helps in implementing energy saving strategies customized for them.
   - Java Script
 - **Database**:
   - Firebase (Since, we were unable to finish learning mongodb, we used firebase as we already had some knowldge in it because of app dev.)
+ 
+## Contributions
+
+**Akhil (CS23B053)**:
+	Taught front-end development concepts and best practices to the team.
+Contributed to backend development, implementing server-side logic and database management.
+Fixed many bugs.
+
+**Rishikesh (CS23B015)**:
+	 Completed half of the front-end development.
+Created the design prototype for the website.
+Assisted Akhil in backend functionality and did some database management.
+
+**Rohan (CS23B040)**:
+Completed the remaining half of the front-end development, ensuring responsive design and functionality.
+
+**Pranathi (CS23B021) & Harshith(CS23B018)**:
+Provided necessary data and images for the project, enhancing content quality and visual appeal.
+
+**Surendra (CS23B046)**:
+Collaborated with Rohan to enhance user interface components.
+
+
